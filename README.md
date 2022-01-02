@@ -2,8 +2,11 @@ public_iCH1family
 ===
 
 * iCH1family の公開用ページ
+	* 基本的にルールなどは本ページに記入する
+	* 実体(契約物や、物品自体)に関する情報や、公開が難しいルールは、非公開ページ側に記入する
 * 非公開ページは[こちら](https://github.com/hinoshiba/iCH1family)
 	* マスクしている情報は、[非公開ページの変数表](https://github.com/hinoshiba/iCH1family/blob/master/README.md#変数一覧) で確認する
+
 
 ## 家庭ルール
 
