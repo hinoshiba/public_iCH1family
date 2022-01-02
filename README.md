@@ -8,7 +8,7 @@ public_iCH1family
 ## 家庭ルール
 
 * [知人を家に呼びたい時](./rule/friend2house.md)
-	* [多分共有しといた方がいい話](./rule/share2friend.md)
+	* [家に来る人に共有しといた方がいい話](./rule/share2friend.md)
 * [家計管理](./rule/accountbook.md)
 * [定期契約](./rule/contract.md)
 * [物品管理](./rule/asset.md)
