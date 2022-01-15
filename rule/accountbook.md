@@ -26,7 +26,7 @@
 * 家計簿
 	* [項目定義](./ab/class.md)
 		* 家計簿で選択可能な項目が定義されています
-* 個人精算([個人精算とは？](./ab/whatIsKozinSeisan.md)
+* 個人精算([個人精算とは？](./ab/whatIsKozinSeisan.md))
 	* [小遣い](./ab/personal_money.md)
 		* 純粋にもらえるお金です
 	* [経費立替精算](./ab/rebuilding.md)
