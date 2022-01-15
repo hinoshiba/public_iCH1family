@@ -50,7 +50,7 @@
 1. 明細をwebからダウンロードする
 2. coteditorなどで、文字コードをURF-8へ変換
 3. Excelへ、NewFileして、貼り付ける
-	1. カラムを`data,name,size,category,memo`にする
+	1. カラムを`date,name,size,category,memo`にする
 	2. 途中の余計な総額を削除
 	3. 空白業を削除
 4. ファイルを`var/csv/<yyyymm>/out/creditcard.csv`で保存
