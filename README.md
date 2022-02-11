@@ -19,6 +19,7 @@ public_iCH1family
 ## 手順
 
 * [家計簿更新](./ope/accountbook.md)
+* [お掃除](./ope/cleaning.md)
 
 ## リンク(要ログイン/準備中)
 
