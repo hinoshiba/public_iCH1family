@@ -4,7 +4,7 @@
 * 家計簿のレビュー承認方法
 
 1. 「家計簿」を開く
-	* [2021年家計簿リンク](https://github.com/hinoshiba/iCH1family/blob/master/docs/AccountBook/reports/var/report/2021.md)
+	* [2022年家計簿リンク](https://github.com/hinoshiba/iCH1family/blob/master/docs/AccountBook/reports/2022/var/report/2022.md)
 2. 同時に、「確認依頼画面」を開く
 	1. [確認依頼一覧](https://github.com/hinoshiba/iCH1family/pulls)
 	2. 上記一覧から、依頼中のリストが表示される。平時は1つだけ表示されるので、それを確認すれば良い
