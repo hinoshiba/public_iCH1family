@@ -19,6 +19,7 @@ public_iCH1family
 ## 手順
 
 * [家計簿更新](./ope/accountbook.md)
+* [給与明細pdf保存手順](./ope/save_pdf.md)
 
 ## リンク(要ログイン/準備中)
 
