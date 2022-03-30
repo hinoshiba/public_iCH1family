@@ -7,7 +7,6 @@ public_iCH1family
 * 非公開ページは[こちら](https://github.com/hinoshiba/iCH1family)
 	* マスクしている情報は、[非公開ページの変数表](https://github.com/hinoshiba/iCH1family/blob/master/README.md#変数一覧) で確認する
 
-
 ## 家庭ルール
 
 * [知人を家に呼びたい時](./rule/friend2house.md)
@@ -21,11 +20,15 @@ public_iCH1family
 * [家計簿更新](./ope/accountbook.md)
 * [給与明細pdf保存手順](./ope/save_pdf.md)
 
-## リンク(要ログイン/準備中)
+# その他情報
 
-1月家計簿の承認/マージ後にリンクが変わるのでその後更新  
+## 便利ページ
 
-* [最新の家計簿]()
-* [貯金額]()
-* [定期契約一覧]()
-* [物品管理一覧]()
+* [GOHAN](./QolUp/gohan/README.md)
+
+## リンク
+
+* [最新の家計簿](https://github.com/hinoshiba/iCH1family/blob/master/docs/AccountBook/reports/2022/var/report/2022.md)
+* [貯金額](https://github.com/hinoshiba/iCH1family/blob/master/docs/AccountBook/README.md)
+* [定期契約一覧](https://github.com/hinoshiba/iCH1family/blob/master/docs/ContractMgt/README.md)
+* [物品管理一覧](https://github.com/hinoshiba/iCH1family/blob/master/docs/AssetMgt/README.md)
