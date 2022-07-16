@@ -24,7 +24,6 @@ public_iCH1family
 
 ## 便利ページ
 
-* [GOHAN](./QolUp/gohan/README.md)
 
 ## リンク
 
