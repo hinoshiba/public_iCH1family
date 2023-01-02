@@ -58,6 +58,7 @@
 6. `kai-ab autofil` する
 7. 不足を、`kai-ab mfil`する
 	* 今後も使う項目があるなら、`etc/auto_filters.yaml`に加えておく
+	* 項目は、[項目定義](../../rule/ab/class.md) を参照する
 8. `kai-ab calc` する
 9. `git commit`する
 10. `creditcard.csv`の、黒字値と、カードの引き落とし総額にずれが無いことを確認する
